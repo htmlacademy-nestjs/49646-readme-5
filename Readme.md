@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
-* Студент: [Дмитрий Кузьмин](https://up.htmlacademy.ru/nodejs-2/5/user/49646).
-* Наставник: `Неизвестно`.
+- Студент: [Дмитрий Кузьмин](https://up.htmlacademy.ru/nodejs-2/5/user/49646).
+- Наставник: [Константин Ильин](https://htmlacademy.ru/profile/id2374827).
 
 ---
 
